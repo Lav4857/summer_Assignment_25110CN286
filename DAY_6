@@ -29,7 +29,7 @@ int main() {
 #include <math.h>
 
 int main() {
-    long long binary;
+    int binary;
     int decimal = 0, base = 0, remainder;
 
     printf("Enter a binary number: ");
